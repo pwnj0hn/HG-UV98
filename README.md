@@ -7,8 +7,8 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 * UV98_868_220430_S4.exe - APRS update from 30th of April 2022 (Fixes issue with wrong GPS coordinates reported)
 
 ## Software in repo
-* HG-UV98 EN V2.0 setup.rar - English radio software v2.0
-* APRS 51TNC-ENG.zip - APRS software
+* HG-UV98 EN V2.0 setup.rar - English radio software v2.0 (Not especially good, but it works.)
+* APRS 51TNC-ENG.zip - APRS software (I am not getting this to work..)
 
 ## How to update radio firmware
 * Download and install TeraTerm (https://osdn.net/projects/ttssh2/releases/)
@@ -32,3 +32,11 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 
 * Wait for upload to finish
 * Restart radio
+* Note that if you have some problems using TeraTerm, try HyperTerminal instead - https://www.hilgraeve.com/hyperterminal-trial/)
+
+
+## Links
+* https://github.com/marrold/HG-UV98
+* https://hvdnnotebook.blogspot.com/2019/10/review-lanch-hg-uv98-aprs-2m70cm-ht.html
+* https://hvdnnotebook.blogspot.com/2021/02/sure-to-ok-fixing-hg-uv98.html
+* https://www.venus-itech.com/product/hg-uv98-handheld-with-aprs/#comment-2062
