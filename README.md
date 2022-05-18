@@ -9,6 +9,12 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 ## Software in repo
 * HG-UV98 EN V2.0 setup.rar - English radio software v2.0 (Not especially good, but it works.)
 * APRS 51TNC-ENG.zip - APRS software (I am not getting this to work..)
+* APRS_51Serial_20181009.rar - APRS software (Do not work with Prolific USB adapter)
+
+
+## Using the Radio software
+To be able to write to or read from the radio with the programming software, the radio needs to be turned on when holding the lower side key (PF1). You will then get another boot screen with some Chinese characters.)
+
 
 ## How to update radio firmware
 * Download and install TeraTerm (https://osdn.net/projects/ttssh2/releases/)
