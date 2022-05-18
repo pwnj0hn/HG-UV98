@@ -9,7 +9,7 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 ## Software in repo
 * HG-UV98 EN V2.0 setup.rar - English radio software v2.0 (Not especially good, but it works.)
 * APRS 51TNC-ENG.zip - APRS software (I am not getting this to work..)
-* APRS_51Serial_20181009.rar - APRS software (Do not work with Prolific USB adapter)
+* APRS_51Serial_20181009.rar - APRS software
 
 
 ## Using the Radio software
