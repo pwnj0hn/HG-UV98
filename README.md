@@ -27,6 +27,7 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 * Choose file to upload
 
 ![](/Images/teraterm-serialport-upload.png)
+![](/Images/teraterm-serialport-upload01.png)
 ![](/Images/teraterm-serialport-upload02.png)
 
 * Wait for upload to finish
