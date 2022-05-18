@@ -14,9 +14,11 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 Download and install TeraTerm (https://osdn.net/projects/ttssh2/releases/)
 
 Choose serial port
+
 ![](/Images/teraterm-serialport.png)
 
 Choose serial speed
+
 ![](/Images/teraterm-serialport-speed01.png)
 ![](/Images/teraterm-serialport-speed02.png)
 
@@ -25,6 +27,7 @@ Start radio in update mode by holding PTT and turn it on
 Type 1
 
 Choose file to upload
+
 ![](/Images/teraterm-serialport-upload.png)
 ![](/Images/teraterm-serialport-upload02.png)
 
