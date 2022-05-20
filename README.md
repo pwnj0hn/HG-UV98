@@ -13,7 +13,10 @@ Firmware + tips &amp; tricks for the Lanch HG-UV98 APRS Radio
 
 
 ## Using the Radio software
-To be able to write to or read from the radio with the programming software, the radio needs to be turned on when holding the lower side key (PF1). You will then get another boot screen with some Chinese characters.)
+To be able to write to or read from the radio with the programming software, the radio needs to be turned on when holding the lower side key (PF2). You will then get another boot screen with some Chinese characters.
+
+## Using the APRS software
+To be able to write or read APRS settings from the radio, the radio needs to be turned on when holding the middle side key (PF1).
 
 
 ## How to update radio firmware
@@ -46,3 +49,4 @@ To be able to write to or read from the radio with the programming software, the
 * https://hvdnnotebook.blogspot.com/2019/10/review-lanch-hg-uv98-aprs-2m70cm-ht.html
 * https://hvdnnotebook.blogspot.com/2021/02/sure-to-ok-fixing-hg-uv98.html
 * https://www.venus-itech.com/product/hg-uv98-handheld-with-aprs/#comment-2062
+* https://groups.io/g/HG-UV98-users/
